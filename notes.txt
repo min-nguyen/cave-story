@@ -1,0 +1,3 @@
+Added bullets & shooting correctly.
+Added 'delete' to remove functions.
+Added 'addanimationv2'.

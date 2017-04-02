@@ -1,0 +1,86 @@
+﻿  Weapon.cpp
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(22): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(23): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(25): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(26): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(27): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(28): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(30): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(31): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\slope.h(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\door.h(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\weapon.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Level.cpp
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(22): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(23): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(25): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(26): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(27): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(28): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(30): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(31): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\slope.h(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\door.h(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(202): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(247): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(276): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(325): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(290): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(290): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(290): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(290): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(407): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(408): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(411): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(422): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(428): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(461): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(471): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(481): warning C4018: '<': signed/unsigned mismatch
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\level.cpp(502): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(22): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(23): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(25): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(26): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(27): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(28): warning C4244: 'return': conversion from 'float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(30): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\rectangle.h(31): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\slope.h(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\door.h(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\game.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\game.cpp(93): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\minni\documents\visual studio 2015\projects\cavestory\cavestory2\game.cpp(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  CaveStory2.vcxproj -> C:\Users\minni\Documents\Visual Studio 2015\Projects\CaveStory\Debug\CaveStory2.exe
+  CaveStory2.vcxproj -> C:\Users\minni\Documents\Visual Studio 2015\Projects\CaveStory\Debug\CaveStory2.pdb (Partial PDB)
